@@ -1,1 +1,57 @@
 /* This is a comment! */
+/*h1, 
+h2, 
+h3, 
+h4{
+    color: blue;
+}*/
+
+/*#introduction{
+    color: darkolivegreen;
+}*/
+
+/*.alt-row{
+    color: purple;
+}*/
+
+/*nav li {
+    color: red;
+    list-style-type: square;
+}*/
+
+/*#volcanic-features figcaption .alt-row{
+    color: darkolivegreen;
+}*/
+
+/*p > strong {
+    color: blue;
+}
+
+ul > li{
+    color: blue;
+}*/
+
+/*abbr[title]{
+    color: blue;
+}*/
+
+/*[datetime^='19']{
+    color: pink;
+}
+
+[datetime^='20']{
+    color: purple;
+}*/
+
+/*p::first-line{
+    color: blueviolet;
+}*/
+
+a:hover {
+    color: navy;
+}
+
+a:active {
+    color: palevioletred;
+}
+
