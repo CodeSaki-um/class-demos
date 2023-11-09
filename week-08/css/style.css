@@ -3,13 +3,45 @@ body {
   color: #222;
   font-family: "Roboto Mono", "Arial", "Helvetica", sans-serif;
   font-weight: 400;
+  font-size: 18px;
+  line-height: 2;
 }
+
 
 h1,
 h2 {
   font-weight: 900;
 }
 
+figcaption{
+  font-size: 14px;
+  font-style: italic;
+}
+
+.attribution {
+  text-align: right;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(84, 186, 244);
+}
+a:visited {
+  color: rgb(145, 75 ,0);
+}
+
+a:link {
+  color: #4776ba;
+}
+
+a:hover {
+  background-color: #fff;
+  color: rgba(26,79,58,0.1);
+}
+
+a:active {
+  color: rgb(255, 186, 198);
+}
 
 
 
