@@ -5,6 +5,11 @@
   grid-gap: 20px;
 }
 
+#a{
+grid-column-start: 1;
+grid-column-end: 5;
+}
+
 /* Write your styles above this line! 👆👆👆 */
 
 .grid div {
