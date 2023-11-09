@@ -4,5 +4,11 @@ body {
 
 #box {
   background-color: #ccc;
-  padding: /*top right botton left*/ 20px 10px;
+  width: 600px;
+  height: 600px;
+  overflow: scroll;
+}
+
+p{
+
 }
